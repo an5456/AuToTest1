@@ -1,4 +1,4 @@
-package com.tester.extend.demo;
+package com.tester.extentd.demo;
 
 
 import com.aventstack.extentreports.ExtentReports;
